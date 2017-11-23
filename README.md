@@ -1,3 +1,9 @@
+Classic support added to the 1.7.2 branch of go-ethereum. Recommended start options:
+geth --classic --datadir "/path/to/blank/folder" 
+
+Next tasks: automatic subfolder for classic, classictest. Support the next version of the Ethereum Classic test network. Test for difficulty and uncle rate changes.  
+
+
 ## Go Ethereum
 
 Official golang implementation of the Ethereum protocol.
